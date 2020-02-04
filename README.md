@@ -1,5 +1,5 @@
 # IXI2020_The_Error_Slayers
-Project Focus: To implement a virtual simulation lab for the school & college.
+Project Focus: To implement a virtual simulation lab for the School & University.
 
 Abstract:
 It is always an issue for students when they have to appear on practical exams, as they cannot do proper practicing.
